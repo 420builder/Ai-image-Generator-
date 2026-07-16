@@ -1,3 +1,21 @@
+![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+
+![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)
+
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-cyan?style=for-the-badge)
+
+![Made By](https://img.shields.io/badge/Made%20By-TIMOTHY%20GAMING-red?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/420builder/Ai-image-Generator-?style=for-the-badge)
+
+![Forks](https://img.shields.io/github/forks/420builder/Ai-image-Generator-?style=for-the-badge)
+
 🎨 AI Image Generator
 📌Ideas Become Reality 🚀
 
